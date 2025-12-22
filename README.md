@@ -6,7 +6,11 @@
 5. [Acknowledgements](#licensing)
 
 ## Running the Project<a name="installation"></a>
-In order to run the code in the Jupyter Notebook, download the 2025 [Stack Overflow Annual Developer Survey results](https://survey.stackoverflow.co/). You will need both the survey results and the schema. Put them im a folder named "Data." The Data folder should be in the same directory as the Jupyter Notebook.
+1. Clone or download this repository.
+2. Ensure Python version 3.* is installed.
+3. Ensure the necessary libraries are installed by running `pip install -r requirements.txt`.
+4. Download the 2025 [Stack Overflow Annual Developer Survey results](https://survey.stackoverflow.co/). You will need both the survey results and the schema. Put them im a folder named "Data." The Data folder should be in the same directory as the Jupyter Notebook.
+5. Run the code in stack_overflow_data_project.ipynb.
 
 
 ## Project Motivation<a name="motivation"></a>

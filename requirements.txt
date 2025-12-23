@@ -2,7 +2,5 @@ numpy
 pandas
 seaborn
 matplotlib
-re
 wordcloud
 scikit-learn
-textwrap

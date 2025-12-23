@@ -2,8 +2,9 @@
 1. [Running the Project](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Acknowledgements](#licensing)
+4. [Libraries Used](#libraries)
+5. [Results](#results)
+6. [Acknowledgements](#licensing)
 
 ## Running the Project<a name="installation"></a>
 1. Clone or download this repository.
@@ -21,9 +22,19 @@ I wanted to investigate the following 3 questions:
 3. What skills will be most necessary for data scientists and data analysts in the future?
 
 
-## File Description <a name="files"></a>
+## File Descriptions <a name="files"></a>
+- `stack_overflow_data_project.ipynb`: Contains all code for the analysis.
+- `requirements.txt`: Lists all Python dependencies.
+  
+## Libraries Used <a name="libraries"></a>
 
-The Jupyter Notebook contains all the code for the analysis.
+This project uses the libraries listed below, which are also listed in requirements.txt for convenience of installation.
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- wordcloud
+- scikit-learn
 
 ## Results<a name="results"></a>
 
